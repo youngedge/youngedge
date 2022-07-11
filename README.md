@@ -1,5 +1,5 @@
 - 👋🏾 Hi, I’m Oti Desmond 
-- I'm Frontend developer  
+- I'm a Frontend developer  
 - Languages
   -dart(flutter)
   -HTML(CSS)
