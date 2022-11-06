@@ -5,6 +5,4 @@
   -HTML(CSS)
   -python  
 - 📫 How to reach me 
-EMAIL- desmondotid.don16@gmail.com
-
-       desmondotid.don@gmail.com
+EMAIL- desmondotid.don16@gmail.com  desmondotid.don@gmail.com
