@@ -1,9 +1,1 @@
-- 👋🏾 Hi, I’m Oti Desmond 
-- I'm a full-stack software developer  
-- Languages
-  -react
-  -react native
-  -HTML(CSS)
-  -python  
-- 📫 How to reach me 
-EMAIL- desmondotid.don16@gmail.com  desmondotid.don@gmail.com
+👋🏾  Hi, I'm Oti Desmond, a full-stack software developer skilled in React, React Native, Python, web fundamentals (HTML/CSS), and JavaScript frameworks. Proficient in UI/UX design and responsive layouts, I'm passionate about building seamless user experiences across web and mobile platforms.  Reach me at desmondotid.don16@gmail.com for potential projects and collaborations.
